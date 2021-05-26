@@ -2,5 +2,5 @@
 
 Node.js
 
-Serving HTML to the server using pipe function to read and write stream.
+Serving HTML to the browser using pipe function to read and write stream.
 
